@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37e0cd4b-331b-45c6-9e62-042119f9b771" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/request.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/src/main/java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/src/main/java/com/example/producingwebservice/CountryEndpoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/src/main/java/com/example/producingwebservice/CountryRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/src/main/java/com/example/producingwebservice/ProducingWebServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/src/main/java/com/example/producingwebservice/WebServiceConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/src/main/resources/countries.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/src/test/java/com/example/producingwebservice/ProducingWebServiceApplicationIntegrationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RunManager">
@@ -119,5 +101,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1320" height="196" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1589309807940" />
+    <state x="172" y="31" key="SettingsEditor" timestamp="1589310868954">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1589310868954" />
   </component>
 </project>
