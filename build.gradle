@@ -11,65 +11,19 @@ sourceCompatibility = '1.8'
 repositories {
 	mavenCentral()
 }
-
-// tag::xsd[]
-task genJaxb {
-    ext.sourcesDir = "${buildDir}/generated-sources/jaxb"
-    ext.classesDir = "${buildDir}/classes/jaxb"
-    ext.schema = "src/main/resources/countries.xsd"
-
-    outputs.dir classesDir
-
-    doLast() {
-        project.ant {
-            taskdef name: "xjc", classname: "com.sun.tools.xjc.XJCTask",
-                    classpath: configurations.jaxb.asPath
-            mkdir(dir: sourcesDir)
-            mkdir(dir: classesDir)
-
-            xjc(destdir: sourcesDir, schema: schema) {
-                arg(value: "-wsdl")
-                produces(dir: sourcesDir, includes: "**/*.java")
-            }
-
-            javac(destdir: classesDir, source: 1.6, target: 1.6, debug: true,
-                    debugLevel: "lines,vars,source", includeantruntime: false,
-                    classpath: configurations.jaxb.asPath) {
-                src(path: sourcesDir)
-                include(name: "**/*.java")
-                include(name: "*.java")
-            }
-
-            copy(todir: classesDir) {
-                fileset(dir: sourcesDir, erroronmissingdir: false) {
-                    exclude(name: "**/*.java")
-                }
-            }
-        }
-    }
-}
-// end::xsd[]
-
-// tag::jaxb[]
-configurations {
-    jaxb
-}
-
-bootJar {
-    baseName = 'gs-producing-web-service'
-    version =  '0.1.0'
-}
-// end::jaxb[]
-
-// tag::dependencies[]
 dependencies {
+    testCompile group: 'junit', name: 'junit', version : '4.12'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
-	implementation 'org.springframework.boot:spring-boot-starter-web-services'
-	implementation 'wsdl4j:wsdl4j:1.6.1'
-	jaxb("org.glassfish.jaxb:jaxb-xjc:2.2.11")
-	compile(files(genJaxb.classesDir).builtBy(genJaxb))
+
   testImplementation('org.springframework.boot:spring-boot-starter-test') {
-		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+      exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+      implementation 'org.springframework.ws:spring-ws-core'
+      compile group: 'com.sun.xml.ws', name: 'jaxws-rt', version: '2.3.1'
+      compile('javax.xml.bind:jaxb-api:2.3.0')
+      compile('javax.activation:activation:1.1')
+      compile('org.glassfish.jaxb:jaxb-runtime:2.3.0')
 	}
 }
-// end::dependencies[]
+test {
+    useJUnitPlatform()
+}

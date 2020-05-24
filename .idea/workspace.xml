@@ -1,8 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="37e0cd4b-331b-45c6-9e62-042119f9b771" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/part3.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/part3.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/DAO/FakeRepo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/DAO/FakeRepoInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/Part4Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/wsdl/CountriesPort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/wsdl/CountriesPortService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/wsdl/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/wsdl/Currency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/wsdl/GetCountryRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/wsdl/GetCountryResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/wsdl/ObjectFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/springboot/part4/wsdl/package-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/example/producingwebservice/ProducingWebServiceApplicationIntegrationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/CountriesPort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/CountriesPort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/CountriesPortService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/CountriesPortService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/Currency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/GetCountryRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/GetCountryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/GetCountryResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/GetCountryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/ObjectFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/package-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/part4/wsdl/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/Part4Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/CountriesPort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/CountriesPort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/CountriesPortService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/CountriesPortService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/Currency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/GetCountryRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/GetCountryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/GetCountryResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/GetCountryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/ObjectFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/package-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/wsdl/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/producing-web-service.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/producing-web-service.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/producing-web-service.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/producing-web-service.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/producingwebservice/CountryEndpoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/producingwebservice/CountryRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/producingwebservice/ProducingWebServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/producingwebservice/WebServiceConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/GetCountryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/GetCountryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/GetCountryResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/GetCountryResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/ObjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/ObjectFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/part4/Part3Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/part4/WebSecurityConfigurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/part4/WebSecurityConfigurer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +139,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/KagisoRKA/Springboot-Part4.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1bmTaPrJ7zAwBgPa05DXReHitW4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,17 +158,23 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.17432784" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="ProducingWebServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.producingwebservice.ProducingWebServiceApplication" />
-      <module name="producing-web-service.main" />
+  <component name="RunManager" selected="Application.Part4Application">
+    <configuration name="Part4Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.springboot.part4.Part4Application" />
+      <module name="com.example.producing-web-service.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.producingwebservice.*" />
+          <option name="PATTERN" value="com.springboot.part4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,9 +182,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Part4Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.springboot.part4.Part4Application" />
+      <module name="com.example.producing-web-service.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.part4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducingWebServiceApplicationIntegrationTests.testSendAndReceive" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.producingwebservice.ProducingWebServiceApplicationIntegrationTests.testSendAndReceive&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Part4Application" />
+      <item itemvalue="Gradle.ProducingWebServiceApplicationIntegrationTests.testSendAndReceive" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProducingWebServiceApplication" />
+        <item itemvalue="Application.Part4Application" />
+        <item itemvalue="Gradle.ProducingWebServiceApplicationIntegrationTests.testSendAndReceive" />
       </list>
     </recent_temporary>
   </component>
@@ -81,29 +240,65 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="196" key="GridCell.Tab.0.bottom" timestamp="1589309807940">
+    <state x="340" y="113" width="998" height="574" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590347751871">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="196" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589309807940" />
-    <state width="1320" height="196" key="GridCell.Tab.0.center" timestamp="1589309807940">
+    <state x="340" y="113" width="998" height="574" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1590347751871" />
+    <state x="415" y="188" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590255703268">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="196" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1589309807940" />
-    <state width="1320" height="196" key="GridCell.Tab.0.left" timestamp="1589309807939">
+    <state x="415" y="188" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1590255703268" />
+    <state x="402" y="142" width="542" height="510" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590087839479">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="196" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1589309807939" />
-    <state width="1320" height="196" key="GridCell.Tab.0.right" timestamp="1589309807940">
+    <state x="402" y="142" width="542" height="510" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.741@0.27.1366.741" timestamp="1590087839479" />
+    <state x="631" y="213" width="735" height="484" key="FileChooserDialogImpl" timestamp="1590275940546">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="196" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1589309807940" />
-    <state x="172" y="31" key="SettingsEditor" timestamp="1589310868954">
+    <state x="631" y="213" width="735" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1590275940546" />
+    <state width="1343" height="250" key="GridCell.Tab.0.bottom" timestamp="1590350197313">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1589310868954" />
+    <state width="1343" height="250" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1590350197313" />
+    <state width="1343" height="250" key="GridCell.Tab.0.center" timestamp="1590350197312">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="250" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1590350197312" />
+    <state width="1343" height="250" key="GridCell.Tab.0.left" timestamp="1590350197312">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="250" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1590350197312" />
+    <state width="1343" height="250" key="GridCell.Tab.0.right" timestamp="1590350197312">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="250" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1590350197312" />
+    <state x="9" y="37" width="1357" height="731" key="SettingsEditor" timestamp="1590334981216">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="9" y="37" width="1357" height="731" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1590334981216" />
+    <state x="378" y="71" width="988" height="697" key="new project wizard" timestamp="1590159336157">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="378" y="71" width="988" height="697" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1590159336157" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1590014624921">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1590014624921" />
   </component>
 </project>
